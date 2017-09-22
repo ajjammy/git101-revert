@@ -1,4 +1,4 @@
 one  
-three  
+three
 two
 new line  
